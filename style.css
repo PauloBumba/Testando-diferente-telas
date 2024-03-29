@@ -79,12 +79,13 @@ footer{
     
     text-align: center;
 }
-@media only screen and (min-width:768px)  and (max-width:1400px){
+@media only screen and (min-width:768px) {
     #burger{
         display: none;
     }
+
     nav{
-    
+        display: none;
         border: none;
         padding: 10px;
        
